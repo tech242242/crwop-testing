@@ -8,6 +8,7 @@ import Industries from './components/Industries'
 import Process from './components/Process'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import './index.css'
 
 function App() {
   return (
